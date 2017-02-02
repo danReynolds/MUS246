@@ -120,8 +120,8 @@ Blend of Consonant and Dissonant: Yes from Meet Joe Black (1998) Composer: Thoma
 
 Dissonant: Bishop's Countdown from Aliens (1986) Composer: James Horner
 
-**Tonal**: Do-Ray-Me scale
-**Atonal**: Absence of tonality. No sense of the Do-Ray-Me scale.
+**Tonal**: Doe-Ray-Me scale
+**Atonal**: Absence of tonality. No sense of the Doe-Ray-Me scale.
 
 ## Technical Details: How It's Done
 

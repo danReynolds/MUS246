@@ -207,3 +207,142 @@ Kalem company was a leading force in the creation of scores in the early 1910s, 
 In 1915 he scored *The Birth of a Nation* and created the music for *Intolerance*.
 
 **Victor Herbert**, prominent figure in American music in the early 20th century, Irish American cellist, conductor and composer. Composed a symphonic score for *The Fall of a Nation* and the score is cited as the first fully original American film score.
+
+# Chapter 7: The Birth of a Nation
+
+Film's first great masterpiece, elevating the technique of filmmaking to an art form. However, it also represents a defense of Southern segregation, glorifying the formation of the KKK. Directed by Griffith.
+
+12-reel epic film.
+
+Plot goes from the idyllic days before the Civil War to the war, and then the Reconstruction.
+
+The film is divided into two parts:
+
+1. Story of the Civil War and its tragic impact on two families. Assassination of Lincoln, battle of Petersburg.
+
+2. Based on the Clansman, a 1905 novel by the white supremacist Revered Thomas Dixon. Very racist.
+
+## The Music
+
+Griffith worked with Joseph Carl Breil for a three-hour score including adaptations of classical works, arrangements of well-known melodies, and original music.
+
+## Adaptations
+
+Adapted passages from Weber's Der Freischultz, Suppe's Light Calvary Overture, Beethoven's Symphony #6, Wagner's Ride of the Valkyrie.
+
+## Arrangements
+
+Uses well-known melodies to arouse emotions and set moods. Southern tunes like *Dixie*, *O Christmas Tree*, express patriotism for the South, include *Star-Spangled Banner*, *America the Beautiful*, and *The Battle Hymn of the Republic*.
+
+## Original Music
+
+Breil creates many leitmotifs, two principal Stoneman themes reflect divergent personalities.
+
+Music set for Senator Stoneman is in a minor key, stern and formal.
+
+Daughter has a playful tune suggesting innocence.
+
+The existence of multiple versions of both the film and the score has made the coordination of the original music with the film on a video difficult.
+
+Breil's score for *The Birth of a Nation* was a remarkable achievement for its size and quality. It remains a controversial masterpiece.
+
+## Chapter 8: The Golden Age of Silent Film
+
+Prior to the advent of sound, the movie theater was the largest employer of musicians around the world, mostly organ, or piano.
+
+Famous theaters were built:
+
+* Sid Grauman's Chinese Theatre in LA
+* Rialto
+* Rivoli
+* Capitol
+* Roxy
+* Radio City
+
+built by Rothapfel.
+
+New scores for films became very common in the 20s, and the three leading film composers in America were conductors and composers for New York movie palaces:
+
+* William Axt
+* Erno Rapee
+* Hugo Riesenfeld
+
+## William Axt
+
+Musical director for Capitol Theatre, frequently collaborated with David Mendoza.
+
+Hollywood sent most of their films to New York to be scored. The Capitol Theatre and Wiilliam Axt maintained a close relationship with Hollywood's MGM studio.
+
+He was the assistant conductor at the Manhattan Opera House under Oscar Hammerstein. He was appointed music director of the Capitol Theatre. Later worked for MGM.
+
+Scores:
+
+* Greed
+* The Big Parade
+* Ben-Hur
+* Don Juan
+* Faust
+* The Wind
+* Dinner at Eight
+* The Thin Man
+
+## Erno Rapee
+
+Conducted orchestras at Roxy, Rivoli, and the Capitol, also served as music director for Radio City.
+
+Heard by millions on the radio performances on Roxy Hour.
+
+Well-known for his anthology *Motion Picture Moods for Pianists and Organists*, as well as scores for films like *Sunrise*, *What Price Glory*, *Seventh Heaven*.
+
+Worked for Warner Bros.
+
+## Hugo Riesenfeld
+
+Prominent conductor, directing orchestras at the Rialto, Rivoli and Criterion.
+
+Created musical scores for:
+
+* Dr. Jekyll and Mr. Hyde (1920)
+* The Hunchback of Notre Dame (1923)
+* Les Miserables (1925)
+* Sunrise (1927)
+
+## European Films
+
+After WWI Europe saw strong centers of filmmaking appear in many countries including Germany, the Soviet Union, and France.
+
+### Germany
+
+Creative period of filmmaking from 1920-1933 when Hitler took control of the industry.
+
+First important work: **The Cabinet of Dr. Caligari**
+
+**Expressionist movement**, delves into the darker regions of the subconscious mind. Expressionistic dramas explore topics  such as perversion, nightmares and insanity.
+
+Expressionist paintings use distorted images and heavy black lines to give the impression of a disturbed world.
+
+Expressionist music, most closely associated with the works of Arnold Schoenberg, avoids rational tonal centers and creates a nightmare-like sound with its totally dissonant treatment.
+
+All three aspects of the expressionist movement converge in *The Cabinet of Dr.Caligari.*
+
+Erno Rapee composed music for its American version with excerpts from Schoenberg, Stravinsky, Debussy, Prokofiev, and Strauss.
+
+### The Soviet Union
+
+Soviet filmmaking began in 1919 after the revolution.
+
+Griffith's **Intolerance** impressed Lenin.
+
+Sergei Eisenstein, the leading Soviet director, built upon many of Griffith's techniques. The montage depicting the massacre on the steps of Odessa in *Battleship Potemkin (1925)* remains one of the greatest scenes in film history.
+
+### France
+
+French cinema was the most artistically minded.
+
+French films tended to be innovative, experimental, and energetic.
+
+Erik Satie was one composer.
+
+## Conclusion
+
+By the middle of the 1920s, the art of making silent films had been perfected, both in America and in Europe.
