@@ -131,7 +131,7 @@ These films have almost complete musical accompaniment. Reviews said that the mu
 ## King Kong (1933)
 
 * Worried that it would be a flop
-* Steiner asked to do a compiled score
+* Steiner was asked to do a compiled score
 * Convinces producer to create original score
 
 The initial screenings without music had people laughing, not afraid. But Steiner wrote his own score, and people loved it.

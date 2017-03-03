@@ -144,11 +144,11 @@ One of the first completely original film scores for orchestra created for the F
 
 Engaged the leading stage actors in France to perform quality dramas based on history or mythology.
 
-First production, *L'Assassinat du Duc de Guise (1908)*, turned ot one of France's most prestigious composers, Camille Saint-Saens.
+First production, *L'Assassinat du Duc de Guise (1908)*, turned out one of France's most prestigious composers, Camille Saint-Saens.
 
 Best know for his symphonies, concertos, operas and popular work like The Carnival of Animals and Danse Macabre, Saint-Saens also composed incidental music for stage plays.
 
-He had compose dmusic for three plays in 1902, including Racine's Andromaque.
+He had composed music for three plays in 1902, including Racine's Andromaque.
 
 The concert version of *L'Assassinat du Duc de Guise* reveals four important aspects about the first film score:
 
@@ -161,3 +161,5 @@ Frequent mood changes within each movement mirror the dramatic action. Film reco
 Most convincing are the fourth and fifth scenes depicting the brutal attack and horrified reaction of the Duke's lover.
 
 Recurring themes among the five movements suggest that Saint-Saens employed a system of leitmotifs, themes associated with characters in the film. Basic elements of the classical film score are already present in Saint Saen's initial conception.
+
+# Lecture

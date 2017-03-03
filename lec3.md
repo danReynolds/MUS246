@@ -71,7 +71,7 @@ Accompaniment provided by gramophone, solo piano, piano with singer, small orche
 * Early experiment with camera effects
 * *A Trip to the Moon* (1902)
 
-Starts making very long, over 10 ninutes in length sometimes, first extravagant sets, costumes, special effects.
+Starts making very long, over 10 minutes in length sometimes, first extravagant sets, costumes, special effects.
 
 He actually did coloured movies in 1902. He had the films hand painted, since colored film did not exist. Hand painting each frame of a 10 minute film is crazy. Making a copy of it was also impractical.
 
@@ -101,7 +101,7 @@ See the rise of some of the big film companies like MGM, Paramount.
 
 Big orchestras in the pit, 70-80 people.
 
-Hollywood becomes the center of the western film industry. This is because of the work of Thomas Edison. Edison was a control freak, he cared mostly about money. He did not allow the names of actors to appear in the credits, so that actors could not become famous. There were no starts prior to 1910. The only place that would not enforce Thomas Edison's patents was Hollywood.
+Hollywood becomes the center of the western film industry. This is because of the work of Thomas Edison. Edison was a control freak, he cared mostly about money. He did not allow the names of actors to appear in the credits, so that actors could not become famous. There were no stars prior to 1910. The only place that would not enforce Thomas Edison's patents was Hollywood.
 
 There is a remarkable variety of geography in California, so both the location and legality was on the side of setting the state for the Hollywood Era.
 
