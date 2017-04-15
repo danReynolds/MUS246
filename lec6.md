@@ -33,7 +33,7 @@ Into the 1940s..
 
 ## Jungle Book (1942)
 
-* First soundtrack released on record
+* **First soundtrack released on record**
 
 ## Double Indemnity (1944)
 
@@ -74,7 +74,7 @@ One of the first times we see the use of an electronic instrument in a film scor
 ## Laura (1944)
 
 * Director Otto Preminger wanted *Sophisticated lady* by Duke Ellington, about a prostitute
-* Raskin composes own theme (famous heartbreak story)
+* Raksin composes own theme (famous heartbreak story)
 * Psychological thriller (who-done-it)
 * Motivations and misdirection
 * Monothematic - based on a single theme

@@ -72,7 +72,7 @@ Minors dependent for last 2.
 
 Talking films were expensive, many smaller studios couldn't survive. The tech required to record sound was complicated and expensive, the average company couldn't make a movie anymore.
 
-They big five have their own film distribution networks and own theater chains.
+The big five have their own film distribution networks and own theater chains.
 
 ## The Depression (1930s)
 

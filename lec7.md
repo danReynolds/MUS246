@@ -132,3 +132,109 @@ Key word: Versatility
 * Civil rights
 * Vietnam
 * Generational gap
+
+Early 50s are an extension of 50s, production code abandoned by mid 60s.
+
+Films become more explicit, cynical irony, critique of current society.
+
+Rise of independent production, cost escalates, sometimes smaller ensembles.
+
+Rise of American composers: Bernstein, Goldsmith, Mancini.
+
+Second wave of Europe, French: Maurice Jarr, English: John Barry, John Addison, Italian: Ennio Morricone
+
+## The Good the Bad and the Ugly
+
+Sound effects, electric guitars.
+
+## The Mission
+
+Catholic texts and musical styles.
+
+## John Barry
+
+Classical pianist and trumpeter.
+
+## Dr.No
+
+Monty Norman claimed he composed music for film, led to lawsuit since John Barry did all the work, but Normal wrote one tiny melody for Bond so he actually won the suit.
+
+Barry has 5 Academy Awards: Born Free, Out of Africa, Dances with Wolves
+
+## Modernism
+
+Rejection of past in favor of new.
+
+## 2001: A Space Odyssey
+
+Score compiled from classical music, seen as new approach to relationship between music and film. Combination of tonal and atonal.
+
+Directed by Kubrick, who was forced to use Alex North to score it, but he wanted a compiled score, often with music he didn't have the royalties or permission to use. He abandoned North's version and used the famous compiled score we recognize today.
+
+## Jerry Goldsmith
+
+Born in LA, west coast studied with Rosza at USC, came out of television. Cool because you could now go to school for film music, rather than switching to it from some *actual* profession.
+
+His motto was that *less is more* when it comes to using music in films. Use it appropriately and don't overdo it.
+
+## Patton (1970)
+
+Sparse score, less than 40 minutes for a 3 hour film.
+
+Music focuses on character of Patton, use of electronic processing on orchestral instruments.
+
+Created echo effect for trumpet, to highlight the fact that Patton felt like he had been reincarnated as a warrior many times.
+
+Scene: Advance in Europe
+
+* Montage: blending of all three themes
+* March theme accompanies Patton and advancing troops
+* Religious theme accompanies the commanding officers
+* Reincarnation theme when we see the list of German casualties
+
+## Alien (1979)
+
+* Use of electronic processing
+* Contrast of tonal (human) and atonal (alien) elements
+* Integration of music with sound effects
+* Spent two days making the main theme for Aliens, but Ridley Scott didn't like it and Goldsmith wrote a simple, quick horror one instead that Scott liked
+
+He uses flutes for humans. Plays at bottom of register, to sound delicate, in danger of being squashed.
+
+He has violins for the aliens, playing quickly like if bugs running through walls. Gets the string players to turn violin bows around to strike strings with wooden part of bow, run through echo to get hollow, wooden kind of sound.
+
+Scene 1:
+
+* Flute in low range, quiet/fragile, represents the humans in hostile environment
+* Contrast with electronic and atonal effects representing the alien environment
+
+Scene 2:
+
+* Pulse in harp adds to sound effects in creating tension
+* Atonal melody builds anticipation with ticking/beeping sound effects
+* Sound effects drop out - only music stabbing unexpectedly
+* Sound effects and music build to complex
+
+## Planet of the Apes (1968)
+
+* Social and political critique of race. Lighter skin apes are in charge.
+* Blend of orchestral instruments with elements such as animal horns and mixing bowls.
+* Use of avant-garde/expressionist elements: 12-Tone
+* Almost purely atonal, modernist music
+* Goes tonal for the instant he does *Take your damn..** since for that moment, he has upper hand, goes tonal
+
+Echoes, ram horns, etc.
+
+Main theme unfolds itself in 4 sets of three notes.
+
+Major scales have a structure everyone in the west can hear.
+
+Arnold Schoenberg pioneers a new way of structuring music. They are referred to as the second Viennese school.
+
+Their technique is called 12-Tone music. Developed as a technique to give structure to atonal music. The *scale* is referred to as a tone row. Need to use all 12 notes of the chromatic scale and cannot repeat a note until you have used all of them.
+
+Best example of a film that is entirely based on 12-Tone technique.
+
+No musical relief at the end, fade to black and sound of waves. Music doesn't come back in to say *oh it's okay, it's all just a film*, ends with a very defeatist feeling. Goldsmith knows when to write music and when to leave it out in order to create the biggest impact.
+
+By the late 60s, early 70s, operatic influenced scores are almost unheard of. Just a few years after Planet of the Apes, a young man named George Lucas bumps into John Williams, bringing back the 1930s and bring back the orchestral score.
